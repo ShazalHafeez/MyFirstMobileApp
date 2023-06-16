@@ -3,8 +3,6 @@ import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
   console.log("App Executed")
-  let x;
-  x.toString();
   return (
     <View style={styles.container}>
       <Text>Welcome to My First Andriod App</Text>
