@@ -5,7 +5,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Welcome to My First Andriod App</Text>
-      <Text>How can we help you!!</Text>
+      <Text>Thes are changes in new branchp</Text>
+
       <StatusBar style="auto" />
     </View>
   );
